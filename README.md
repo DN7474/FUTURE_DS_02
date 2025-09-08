@@ -39,11 +39,6 @@ The dataset used in this project is publicly available and can be accessed here:
 
 ---
 
-## 📷 Dashboard Preview
-*(Insert your Power BI dashboard screenshot here)*  
-
----
-
 ## 💼 Business Impact
 The dashboard provides **actionable insights** that directly support marketing strategy and decision-making:
 
@@ -55,4 +50,5 @@ The dashboard provides **actionable insights** that directly support marketing s
 
 ---
 
-## 📂 Project Structure
+## 📷 Report Preview
+[![Report Screenshot](Dashboard_Screenshot.png)](YOUR_LINK_HERE)
