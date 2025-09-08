@@ -9,17 +9,6 @@ identifying high-performing campaigns, and optimizing ad strategies for better R
 
 ---
 
-## 🏢 Business Problem
-Modern businesses invest heavily in social media campaigns but often lack visibility into:
-- Which campaigns are generating the highest ROI
-- How impressions and clicks are distributed
-- Whether ad spend is being optimized
-- Why CTR remains low despite high impressions  
-
-This dashboard solves the problem by consolidating KPIs into a single interactive view.
-
----
-
 ## 🎯 Objectives
 1. Track **key campaign performance metrics** (Spend, Impressions, Clicks, CTR, CPC, ROI).  
 2. Compare **performance of different campaign categories** (Proper Campaign vs Unknown Campaign).  
