@@ -24,13 +24,9 @@ identifying high-performing campaigns, and optimizing ad strategies for better R
 
 ---
 
-## 📂 Dataset Details
-- **Total Spent ($)** – Advertising budget allocation  
-- **Total Impressions** – Number of times ads were shown  
-- **Total Clicks** – User engagement (clicks on ads)  
-- **ROI (%)** – Return on Investment per campaign  
-- **CPC ($)** – Cost per Click  
-- **CTR (%)** – Click-Through Rate  
+## 🔗 Data Source
+The dataset used in this project is publicly available and can be accessed here:  
+[📥 Download Campaign Performance Dataset](https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign)
 
 ---
 
