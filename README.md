@@ -44,19 +44,14 @@ The dataset used in this project is publicly available and can be accessed here:
 
 ---
 
-## 🚀 Insights from the Dashboard
-- ✅ Some campaigns achieve **high ROI despite lower ad spend**, highlighting efficiency.  
-- ⚠️ **CTR is consistently low (0.01–0.02%)**, indicating the need to optimize ad creatives.  
-- ✅ CPC remains relatively stable across campaigns, suggesting **cost efficiency**.  
-- ⚠️ **Unknown Campaigns generate high impressions** but deliver lower ROI, raising concerns about targeting accuracy.  
+## 💼 Business Impact
+The dashboard provides **actionable insights** that directly support marketing strategy and decision-making:
 
----
-
-## 🔮 Future Improvements
-- 📌 Add **conversion metrics** (e.g., leads or sales generated).  
-- 📌 Incorporate **time-based filters** for weekly/monthly campaign analysis.  
-- 📌 Benchmark performance against **industry standards**.  
-- 📌 Integrate **predictive analytics** to forecast ROI and CTR.  
+- 📊 **Improved ROI Tracking** – Enables stakeholders to identify which campaigns deliver the highest returns.  
+- 🎯 **Better Targeting Decisions** – Highlights underperforming campaigns (e.g., high impressions but low ROI), helping refine audience segmentation.  
+- 💸 **Optimized Ad Spend** – Provides visibility into CPC and CTR, ensuring budget allocation goes to effective campaigns.  
+- ⏱ **Faster Decision-Making** – Consolidates multiple KPIs into one interactive dashboard, reducing manual reporting time.  
+- 📈 **Scalable Marketing Strategy** – Insights from current performance can guide future campaign planning and improve long-term profitability.  
 
 ---
 
