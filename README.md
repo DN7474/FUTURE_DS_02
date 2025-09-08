@@ -51,4 +51,4 @@ The dashboard provides **actionable insights** that directly support marketing s
 ---
 
 ## 📷 Report Preview
-[![Report Screenshot](Dashboard_Screenshot.png)](YOUR_LINK_HERE)
+[![Report Screenshot](https://github.com/DN7474/FUTURE_DS_02/blob/main/Snapshort_Task(Social_Media_Campaign_Performance_Report)_DS_02.png)
